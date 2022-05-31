@@ -12,4 +12,17 @@ Sofware: Jupyter Notebook 6.3.0<br>
 Library: Pandas<br>
 Library: Numpy<br>
 Language: Python 3.6.7<br>
+#####Process:
+Open Jupyter Notebook files from local directories using a development environment.
+Read an external CSV file into a DataFrame.
+Format a DataFrame column.
+Determine data types of row values in a DataFrame.
+Retrieve data from specific columns of a DataFrame.
+Merge, filter, slice, and sort a DataFrame.
+Apply the groupby() function to a DataFrame.
+Use multiple methods to perform a function on a DataFrame.
+Perform mathematical calculations on columns of a DataFrame or Series.<br>
 
+#### Results :<br>
+
+We analyzed all the details of the ninth grade Thomas High School students, this analysis was done twice. The first trial of this analysis consisted of a complete set of student data. In the second experiment of this analysis, the ninth grade students of Thomas High School had their scores removed from the calculations and the total grades of the ninth grade of Thomas High School were replaced with NaN.
