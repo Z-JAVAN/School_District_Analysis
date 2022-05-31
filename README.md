@@ -6,9 +6,9 @@ We want to look at the effect of changing all grades 9 in math and reading in Th
   The consequences of deleting potentially inaccurate data are also discussed.
   
 ### Resources:<br>
-Data Source: schools_complete.csv
-Data Source: students_complete.csv
-Sofware: Jupyter Notebook 6.3.0
-Library: Pandas
-Library: Numpy
-Language: Python 3.6.7
+<br>Data Source: schools_complete.csv<br>
+Data Source: students_complete.csv<br>
+Sofware: Jupyter Notebook 6.3.0<br>
+Library: Pandas<br>
+Library: Numpy<br>
+Language: Python 3.6.7<br>
