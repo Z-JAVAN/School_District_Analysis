@@ -27,6 +27,6 @@ Perform mathematical calculations on columns of a DataFrame or Series.<br>
 
 We analyzed all the details of the ninth grade Thomas High School students, this analysis was done twice. The first trial of this analysis consisted of a complete set of student data. In the second experiment of this analysis, the ninth grade students of Thomas High School had their scores removed from the calculations and the total grades of the ninth grade of Thomas High School were replaced with NaN.
 
-![picture01.png](/resources/picture01.png)<br/>
+![picture04.png](/resources/picture04.png)<br/>
  </br>
- ![picture02.png](/resources/picture02.png)<br/>
+ ![picture01.png](/resources/picture01.png)<br/>
