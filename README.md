@@ -30,11 +30,11 @@ Original Analysis:<br>
 Experimental data of 461 ninth-grade students at Thomas High School were converted to zero data, which recalculated math acceptance, reading acceptance, and overall acceptance percentages. The total number of students did not change because the number of student IDs was implemented which was not converted to zero data.
 We analyzed all the details of the ninth grade Thomas High School students, this analysis was done twice. The first trial of this analysis consisted of a complete set of student data. In the second experiment of this analysis, the ninth grade students of Thomas High School had their scores removed from the calculations and the total grades of the ninth grade of Thomas High School were replaced with NaN.
 
- ![picture04.png](/Resources/picture04.png)<br/>
+ ![picture4.png](/Resources/picture4.png)<br/>
 
 When comparing the two graphs, the omission of less than 500 test scores affected the data set of approximately 40,000 students. This change was less than one percent difference, and the numbers continue to be rounded to the nearest whole number.
  </br>
- ![picture01.png](/Resources/picture01.png)<br/>
+ ![picture1.png](/Resources/picture1.png)<br/>
 ###### Analysis of various factors affecting students
 
 Increasing the costs of each student is not related to the average grades and the percentage of acceptance. By reviewing and analyzing the data, we conclude that there are more relevant factors than the budget that determine the average grades of students.
