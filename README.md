@@ -5,3 +5,10 @@ School district performance analysis was performed using the Jupyter notebook wi
 We want to look at the effect of changing all grades 9 in math and reading in Thomas High School - we will now look at how this change has affected various parts of the analysis over time, including Thomas 9 high school grades.
   The consequences of deleting potentially inaccurate data are also discussed.
   
+### Resources:<br>
+Data Source: schools_complete.csv
+Data Source: students_complete.csv
+Sofware: Jupyter Notebook 6.3.0
+Library: Pandas
+Library: Numpy
+Language: Python 3.6.7
