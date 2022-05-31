@@ -36,5 +36,5 @@ When comparing the two graphs, the omission of less than 500 test scores affecte
   ## Updated  </br> 
  ![picture1.png](/Resources/picture1.png)<br/>
 ###### Analysis of various factors affecting students
- 
+  
 Increasing the costs of each student is not related to the average grades and the percentage of acceptance. By reviewing and analyzing the data, we conclude that there are more relevant factors than the budget that determine the average grades of students.
