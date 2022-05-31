@@ -33,7 +33,7 @@ We analyzed all the details of the ninth grade Thomas High School students, this
  ![picture4.png](/Resources/picture4.png)<br/>
 
 When comparing the two graphs, the omission of less than 500 test scores affected the data set of approximately 40,000 students. This change was less than one percent difference, and the numbers continue to be rounded to the nearest whole number.
-  ## Updated  </br>
+  ## Updated  </br> 
  ![picture1.png](/Resources/picture1.png)<br/>
 ###### Analysis of various factors affecting students
  
