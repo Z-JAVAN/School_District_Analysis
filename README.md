@@ -28,11 +28,11 @@ Experimental data of 461 ninth-grade students at Thomas High School were convert
 We analyzed all the details of the ninth grade Thomas High School students, this analysis was done twice. The first trial of this analysis consisted of a complete set of student data. In the second experiment of this analysis, the ninth grade students of Thomas High School had their scores removed from the calculations and the total grades of the ninth grade of Thomas High School were replaced with Nan.
 
 
-orginal<br>
+## orginal<br>
  ![picture01.png](/Resources/picture01.png)<br/>
 
 Adding Nan to all math grades and reading Thomas  high schoolGrade 9 did not have much effect on the result of the analysis.  It should be noted that the number of students was 461 and the total number of students was 39,170, so removing the math grade and reading did not have much effect on the result.
-  Updated  </br> 
+ ## Updated  </br> 
  ![picture02.png](/Resources/picture02.png)<br/>
 
 
@@ -45,7 +45,12 @@ Average Reading Score
 % Overall Passing (The percentage of students that passed math and reading.)
 and using the datas , we can see that all of that has been reduced. 
 
-  ## Reading Scores - Original
+  ## Reading Scores - Original information
   ![picture3.png](/Resources/picture3.png)<br/>
- ##  Updated
+ ##  Updated information
 .![picture4.png](/Resources/picture4.png)<br/>
+## Math Scores - Original information
+![picture5.png](/Resources/picture4.png)<br/>
+## Updated information
+![picture6.png](/Resources/picture4.png)<br/>
+
