@@ -65,7 +65,7 @@ The rankings of the best schools, including Thomas High School, were not affecte
 ![picture10.png](/Resources/picture10.png)<br/>
 ## Scores by school type- Original information
 ![picture11.png.png](/Resources/picture11.png)<br/>
-##Scores by school type- Updated information
+## Scores by school type- Updated information
 ![picture12.png.png](/Resources/picture12.png)<br/>
 Thomas High School and no other schools were affected.
 ## Summary:
