@@ -72,5 +72,5 @@ Thomas High School and no other schools were affected.
 However, after updating all the information the ninth grade students of Thomas High School with Nans (Math and reading scores by grade
 Scores by school spending
 Scores by school size
-Scores by school type ) Analyzing it, we find that  Relacing  ninth-grade students' grades to NaN has really reduced the overall passing percentages and average scores of Thomas High School.
+Scores by school type ) Analyzing it, we find that  Relacing  ninth-grade students' grades to NaN has not really reduced the overall passing percentages and average scores of Thomas High School.
 
