@@ -29,11 +29,11 @@ We analyzed all the details of the ninth grade Thomas High School students, this
 
 
 orginal<br>
- ![picture4.png](/Resources/picture4.png)<br/>
+ ![picture01.png](/Resources/picture01.png)<br/>
 
 Adding Nan to all math grades and reading Thomas  high schoolGrade 9 did not have much effect on the result of the analysis.  It should be noted that the number of students was 461 and the total number of students was 39,170, so removing the math grade and reading did not have much effect on the result.
   Updated  </br> 
- ![picture1.png](/Resources/picture1.png)<br/>
+ ![picture02.png](/Resources/picture02.png)<br/>
 
 
 After analyzing all the orginal data and collecting the data and analyzing including
