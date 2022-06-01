@@ -47,25 +47,25 @@ and using the datas , we can see that all of that has been reduced.
 
   ## Reading Scores - Original information
   ![picture3.png](/Resources/picture3.png)<br/>
- ##  Updated information
+ ## Reading Scores _ Updated information
 .![picture4.png](/Resources/picture4.png)<br/>
 ## Math Scores - Original information
 ![picture5.png](/Resources/picture5.png)<br/>
-## Updated information
+##  Math Scores -Updated information
 ![picture6.png](/Resources/picture4.png)<br/>
 ## the best schools in list - Original information
 ![picture7.png](/Resources/picture7.png)<br/>
-## Updated information
+## the best schools in list -Updated information
 ![picture8.png](/Resources/picture8.png)<br/>
 The rankings of the best schools, including Thomas High School, were not affected by the update.
 
 ### Scores by school size - Original information
 ![picture9.png](/Resources/picture9.png)<br/>
-## Updated information
+## Scores by school size - Updated information
 ![picture10.png](/Resources/picture10.png)<br/>
 ## Scores by school type- Original information
 ![picture11.png.png](/Resources/picture11.png)<br/>
-## Updated information
+##Scores by school type- Updated information
 ![picture12.png.png](/Resources/picture12.png)<br/>
 Thomas High School and no other schools were affected.
 ## Summary:
