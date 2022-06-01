@@ -43,7 +43,7 @@ Average Reading Score
 % Passing Math (The percentage of students that passed math.)
 % Passing Reading (The percentage of students that passed reading.)
 % Overall Passing (The percentage of students that passed math and reading.)
-and using the datas , we can see that all of that has been reduced.
+and using the datas , we can see that all of that has been reduced. 
 
  
 ###### Analysis of various factors affecting students
