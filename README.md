@@ -1,5 +1,5 @@
 # School_District_Analysis
-## Project Overview:</br>
+## Overview of the school district analysis::</br>
 School district performance analysis was performed using the Jupyter notebook with Python, the Panda Library, and the Numpy Library. We first provide a preliminary analysis based on data collected from many students and schools across the school district.
   There appear to be some anomalies in the data, especially in the math and reading grades of ninth-grade high school students.
 We want to look at the effect of changing all grades 9 in math and reading in Thomas High School - we will now look at how this change has affected various parts of the analysis over time, including Thomas 9 high school grades.
@@ -36,7 +36,7 @@ Adding Nan to all math grades and reading Thomas  high schoolGrade 9 did not hav
  ![picture02.png](/Resources/picture02.png)<br/>
 
 
-After analyzing all the orginal data and collecting the data and analyzing including
+The following changes occurred when the Thomas ninth grade students (grade was deducted from the calculations)
 Total Budget
 Average Math Score
 Average Reading Score
@@ -45,7 +45,7 @@ Average Reading Score
 % Overall Passing (The percentage of students that passed math and reading.)
 and using the datas , we can see that all of that has been reduced. 
 
- 
-#### Analysis of various factors affecting students
-  
-.
+  ## Reading Scores - Original
+  ![picture3.png](/Resources/picture3.png)<br/>
+ ##  Updated
+.![picture4.png](/Resources/picture4.png)<br/>
