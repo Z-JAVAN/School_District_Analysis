@@ -69,8 +69,8 @@ The rankings of the best schools, including Thomas High School, were not affecte
 ![picture12.png.png](/Resources/picture12.png)<br/>
 Thomas High School and no other schools were affected.
 ## Summary:
-However, after updating all  information of Thomas High School ninth graders students with Nans,(Math and reading scores by grade
+However, after updating all the information the ninth grade students of Thomas High School with Nans (Math and reading scores by grade
 Scores by school spending
 Scores by school size
-Scores by school type ) and Analysis it, we can see that  Thomas High School regained its high grade point average but did not change in other parts.
+Scores by school type ) Analyzing it, we find that  Relacing  ninth-grade students' grades to NaN has really reduced the overall passing percentages and average scores of Thomas High School .
 
