@@ -69,5 +69,8 @@ The rankings of the best schools, including Thomas High School, were not affecte
 ![picture12.png.png](/Resources/picture12.png)<br/>
 Thomas High School and no other schools were affected.
 ## Summary:
-However, after updating all of Thomas High School ninth graders students, Thomas High School regained its high grade point average.
+However, after updating all  information of Thomas High School ninth graders students with Nans,(Math and reading scores by grade
+Scores by school spending
+Scores by school size
+Scores by school type ) and Analysis it, we can see that  Thomas High School regained its high grade point average but did not change in other parts.
 
